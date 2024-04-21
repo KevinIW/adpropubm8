@@ -17,6 +17,16 @@ Because the code have 5  calls in this
 
 The URL "amqp://guest:guest@localhost:5672" is the address of the message broker. Both the publisher and subscriber programs use this URL to connect to the same message broker. The publisher sends messages to the broker, and the broker then distributes these messages to the subscribers. The fact that they are using the same URL means they are communicating through the same message broker.
 
+
+Commit 3 :
 ![docker1](image.png)
+
+Commit 4 :
+
+![alt text](image-1.png)
+
+Publisher:
+![alt text](image-2.png)
+
 
 </details>
