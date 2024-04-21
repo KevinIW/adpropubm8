@@ -22,14 +22,14 @@ Commit 3 :
 ![docker1](image.png)
 
 Commit 4 :
-Saat dijalankan cargo run 2 kali di publisher, maka subscriber akan menangkapnya lalu mengeluarkan output messages
+When cargo run is executed twice in the publisher, then the subscriber will catch it and output the messages
 ![alt text](image-1.png)
 
 Publisher:
 ![alt text](image-2.png)
 
 Commit 5:
-Saat dijalankan beberapa kali cargo run di publisher maka akan terjadi kenaikan pada message rates. Setelah selang beberapa lama baru akan terjadi kenaikan spike pada publish
+When cargo run is executed several times in the publisher, there will be an increase in message rates. After a while, there will be a spike increase in publish
 ![alt text](image-3.png)
 
 
