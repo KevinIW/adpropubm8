@@ -1,0 +1,11 @@
+D:\Sem 4 UI\Adpro\Modul\Modul 8\publisher\target\debug\deps\libpest_generator-05fdd37e8ebc5453.rmeta: C:\Users\DELL\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pest_generator-2.7.9\src\lib.rs C:\Users\DELL\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pest_generator-2.7.9\src\macros.rs C:\Users\DELL\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pest_generator-2.7.9\src\docs.rs C:\Users\DELL\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pest_generator-2.7.9\src\generator.rs C:\Users\DELL\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pest_generator-2.7.9\src\parse_derive.rs
+
+D:\Sem 4 UI\Adpro\Modul\Modul 8\publisher\target\debug\deps\libpest_generator-05fdd37e8ebc5453.rlib: C:\Users\DELL\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pest_generator-2.7.9\src\lib.rs C:\Users\DELL\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pest_generator-2.7.9\src\macros.rs C:\Users\DELL\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pest_generator-2.7.9\src\docs.rs C:\Users\DELL\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pest_generator-2.7.9\src\generator.rs C:\Users\DELL\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pest_generator-2.7.9\src\parse_derive.rs
+
+D:\Sem 4 UI\Adpro\Modul\Modul 8\publisher\target\debug\deps\pest_generator-05fdd37e8ebc5453.d: C:\Users\DELL\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pest_generator-2.7.9\src\lib.rs C:\Users\DELL\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pest_generator-2.7.9\src\macros.rs C:\Users\DELL\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pest_generator-2.7.9\src\docs.rs C:\Users\DELL\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pest_generator-2.7.9\src\generator.rs C:\Users\DELL\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pest_generator-2.7.9\src\parse_derive.rs
+
+C:\Users\DELL\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pest_generator-2.7.9\src\lib.rs:
+C:\Users\DELL\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pest_generator-2.7.9\src\macros.rs:
+C:\Users\DELL\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pest_generator-2.7.9\src\docs.rs:
+C:\Users\DELL\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pest_generator-2.7.9\src\generator.rs:
+C:\Users\DELL\.cargo\registry\src\index.crates.io-6f17d22bba15001f\pest_generator-2.7.9\src\parse_derive.rs:
